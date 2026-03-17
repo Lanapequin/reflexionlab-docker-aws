@@ -599,7 +599,7 @@ Los tests verifican:
 
 ![imagen-5.png](images/imagen-5.png)
 
-![imagen.jpg](images/imagen.jpg)
+![imagen-9.png](images/imagen-9.png)
 
 ### Instalación de Docker y descarga de imagen en EC2
 
